@@ -1,4 +1,4 @@
-# Basic-Git-Workflow-and-IntelliJ-Settings
+# Git-Pre-Commit-and-IntelliJ-Settings
 A repository for git, pre-commit, and IDE settings (all open-source and/or under creative commons, MIT, etc. licences)
 
 ***
